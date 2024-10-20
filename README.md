@@ -5,10 +5,17 @@
 
 
 ## About
-Este portfolio web presenta los proyectos más destacados de un programador, de manera sencilla y atomica. Posee descripciones claras de cada trabajo, junto con enlaces a sus respectivos repositorios en GitHub.
+This web portfolio showcases the most notable projects of a programmer in a simple and concise way. It includes clear descriptions of each work, along with links to their respective GitHub repositories.
 
-## Tecnologías
-El desarrollo se realizó utilizando HTML, CSS, y JavaScript para proporcionar una experiencia web interactiva y visualmente atractiva.
+## Technologies
+The development was carried out using HTML, CSS, and JavaScript to provide an interactive and visually appealing web experience.
 
 ## More
-El portfolio está diseñado para ser simple y eficiente, optimizado para mostrar proyectos y habilidades de forma profesional.
+The portfolio is designed to be simple and efficient, optimized to display projects and skills in a professional manner.
+
+
+
+
+
+
+
