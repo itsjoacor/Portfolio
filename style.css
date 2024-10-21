@@ -349,6 +349,16 @@ section {
   margin: auto 0;
 }
 
+.text-container{
+  text-align: center;
+}
+
+.text_about{
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+
 /* EXPERIENCE SECTION */
 
 #experience {
