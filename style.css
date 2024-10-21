@@ -426,8 +426,31 @@ article .icon {
 .project-btn {
   color: black;
   border-color: rgb(163, 163, 163);
+
+}
+/* RESUME */
+
+#resume {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 70vh;
 }
 
+.resume-container{
+  padding-top: 100000px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: rgb(7, 6, 6);
+}
+.resume-info-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin: 1rem;
+}
 /* CONTACT */
 
 #contact {
